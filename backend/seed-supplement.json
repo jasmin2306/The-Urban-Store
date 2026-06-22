@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Organic Almond Butter",
+    "price": 14.99,
+    "description": "Creamy organic almond butter. No added sugar, no palm oil. Rich in protein and healthy fats.",
+    "category": "foods",
+    "image": "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=400",
+    "rating": { "rate": 4.3, "count": 3200 }
+  },
+  {
+    "title": "Premium Green Tea Collection",
+    "price": 24.99,
+    "description": "Selection of 5 premium Japanese green teas. Includes matcha, sencha, and genmaicha.",
+    "category": "foods",
+    "image": "https://images.unsplash.com/photo-1558160074-4d7d8bdf4256?w=400",
+    "rating": { "rate": 4.5, "count": 1800 }
+  },
+  {
+    "title": "Dark Chocolate Bar 85% Cocoa",
+    "price": 6.99,
+    "description": "Premium Belgian dark chocolate with 85% cocoa content. Smooth, rich, and antioxidant-rich.",
+    "category": "foods",
+    "image": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?w=400",
+    "rating": { "rate": 4.6, "count": 4500 }
+  },
+  {
+    "title": "Organic Honey Jar",
+    "price": 19.99,
+    "description": "Pure raw organic honey sourced from wildflower meadows. Unfiltered and unpasteurized.",
+    "category": "foods",
+    "image": "https://images.unsplash.com/photo-1587049352851-8d4e8918b762?w=400",
+    "rating": { "rate": 4.7, "count": 2100 }
+  },
+  {
+    "title": "Trail Mix Snack Pack",
+    "price": 12.99,
+    "description": "Healthy mix of almonds, cashews, dried cranberries, and dark chocolate chips. 12-pack.",
+    "category": "foods",
+    "image": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?w=400",
+    "rating": { "rate": 4.4, "count": 5600 }
+  },
+  {
+    "title": "Organic Coconut Oil",
+    "price": 16.99,
+    "description": "Extra virgin cold-pressed coconut oil. Perfect for cooking, baking, and skincare.",
+    "category": "foods",
+    "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=400",
+    "rating": { "rate": 4.5, "count": 3400 }
+  },
+  {
+    "title": "Luxury Gold Diamond Necklace",
+    "price": 459.99,
+    "description": "18K gold plated necklace with genuine diamond accents. Elegant design perfect for special occasions.",
+    "category": "jewelery",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400",
+    "rating": { "rate": 4.7, "count": 890 }
+  },
+  {
+    "title": "Pearl Stud Earrings Set",
+    "price": 89.99,
+    "description": "Genuine freshwater pearl stud earrings in sterling silver. Hypoallergenic and timeless.",
+    "category": "jewelery",
+    "image": "https://images.unsplash.com/photo-1611107683228-e8b19c90c0d1?w=400",
+    "rating": { "rate": 4.5, "count": 1240 }
+  },
+  {
+    "title": "Stainless Steel Men's Watch",
+    "price": 249.99,
+    "description": "Premium stainless steel analog watch with sapphire crystal glass and water resistance.",
+    "category": "jewelery",
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=400",
+    "rating": { "rate": 4.6, "count": 2100 }
+  },
+  {
+    "title": "Silver Chain Bracelet",
+    "price": 129.99,
+    "description": "Handcrafted sterling silver chain bracelet with secure lobster clasp. 8 inches length.",
+    "category": "jewelery",
+    "image": "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=400",
+    "rating": { "rate": 4.4, "count": 670 }
+  },
+  {
+    "title": "Diamond Engagement Ring",
+    "price": 2899.99,
+    "description": "Certified 1-carat diamond engagement ring in 14K white gold. Brilliant cut with pave setting.",
+    "category": "jewelery",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400",
+    "rating": { "rate": 4.9, "count": 340 }
+  },
+  {
+    "title": "Gold Hoop Earrings",
+    "price": 179.99,
+    "description": "14K gold hollow hoop earrings. Lightweight yet durable. 1.5 inch diameter.",
+    "category": "jewelery",
+    "image": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=400",
+    "rating": { "rate": 4.5, "count": 1560 }
+  }
+]
